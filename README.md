@@ -12,7 +12,9 @@
 
 ## نصب
 
-1. فایل‌های افزونه را در پوشه `/wp-content/plugins/checkout-quantity-update` آپلود کنید
+1. فایل‌های افزونه را در پوشه
+`/wp-content/plugins/checkout-quantity-update`
+آپلود کنید
 2. از منوی "افزونه‌ها" در پیشخوان وردپرس، افزونه را فعال کنید
 3. تمام! افزونه به صورت خودکار در صفحه تسویه حساب فعال می‌شود
 
@@ -25,15 +27,12 @@
 ## پشتیبانی
 
 برای گزارش مشکلات یا پیشنهادات خود می‌توانید از بخش Issues در مخزن گیت‌هاب استفاده کنید:
+
 https://github.com/MatinKhamooshi/checkout-quantity-update-for-hub-theme/
-
-## مجوز
-
-این افزونه تحت مجوز GPL نسخه 2 منتشر شده است.
 
 ## توسعه‌دهنده
 
-توسعه یافته توسط [](https://matinkhamooshi.ir)
+توسعه یافته توسط [Matin Khamooshi](https://matinkhamooshi.ir) + AI
 
 ## تغییرات
 
