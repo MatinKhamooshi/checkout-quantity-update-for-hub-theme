@@ -1,0 +1,28 @@
+/* Product name & quantity container */
+
+.product-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+/* Quantity input in dark mode */
+
+html.darklup-dark-mode-enabled .quantity .qty {
+    background-color: #444;
+}
+
+/* Quantity input remove additional margin */
+
+.woocommerce div.quantity {
+    margin: 0 !important;
+}
+
+/* Remove item from cart */
+
+.ui-spinner-button.ui-spinner-down.remove-active::before {
+    content: '';
+    background: url(/wp-content/plugins/checkout-quantity-update/assets/img/trash.svg) center center no-repeat;
+    background-size: 20px 20px;
+}
