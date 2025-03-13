@@ -2,7 +2,7 @@
 /*
 Plugin Name: Checkout Quantity Update for Hub wp theme
 Plugin URI: https://matinkhamooshi.ir
-Description: Adds a quantity input beside the product name on the WooCommerce checkout page and recalculates totals when the quantity changes.
+Description: Adds a quantity input beside the product name on the WooCommerce checkout page and recalculates totals when the quantity changes this is worked just on hub wp theme.
 Version: 1.1
 Author: Matin Khamooshi
 Author URI: https://matinkhamooshi.ir
