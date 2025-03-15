@@ -1,5 +1,41 @@
 # Checkout Quantity Update for Hub WP Theme
 
+A WordPress plugin to enable quantity adjustment for products on the WooCommerce checkout page, specifically designed for the Hub theme.
+
+## Features
+
+- Add a quantity adjustment field next to the product name on the checkout page
+- Automatically recalculate prices when product quantities are updated
+- Remove a product by clicking the decrease button when the quantity reaches 1
+- Compatible with dark mode
+- Beautiful design aligned with the Hub theme
+
+## Installation
+
+1. Upload the plugin files to the `/wp-content/plugins/checkout-quantity-update` directory
+2. Activate the plugin through the "Plugins" menu in WordPress
+3. Done! The plugin will automatically be enabled on the checkout page
+
+## Requirements
+
+- WordPress 5.0 or higher
+- WooCommerce 3.0 or higher
+- Hub theme
+
+## Support
+
+For reporting issues or suggesting features, use the Issues section in the GitHub repository:
+
+https://github.com/MatinKhamooshi/checkout-quantity-update-for-hub-theme/
+
+## Developer
+
+Developed by [Matin Khamooshi](https://matinkhamooshi.ir) + AI
+
+---
+
+# تغییر تعداد محصولات سبد خرید در صفحه تسویه حساب (ویژه قالب هاب)
+
 یک افزونه وردپرس برای اضافه کردن امکان تغییر تعداد محصولات در صفحه تسویه حساب ووکامرس برای قالب Hub.
 
 ## ویژگی‌ها
@@ -33,13 +69,3 @@ https://github.com/MatinKhamooshi/checkout-quantity-update-for-hub-theme/
 ## توسعه‌دهنده
 
 توسعه یافته توسط [Matin Khamooshi](https://matinkhamooshi.ir) + AI
-
-## تغییرات
-
-### نسخه 1.1
-- بهبود عملکرد با قالب Hub
-- رفع باگ‌های جزئی
-- بهینه‌سازی کد
-
-### نسخه 1.0 
-- انتشار اولیه
