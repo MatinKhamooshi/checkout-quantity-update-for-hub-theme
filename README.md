@@ -4,9 +4,9 @@ A WordPress plugin to enable quantity adjustment for products on the WooCommerce
 
 ## Preview EN
 
-| One item in cart | Multiple items in cart |
+| One quantity of product in cart | 2 or more quantities of product in cart |
 | --- | --- |
-| ![One item in cart preview](images/preview-en.webp) | ![Multiple items in cart](images/preview-2-en.webp) |
+| ![One quantity of product in cart preview](images/preview-en.webp) | ![2 or more quantities of product in cart preview](images/preview-2-en.webp) |
 
 ## Features
 
@@ -40,9 +40,17 @@ Developed by [Matin Khamooshi](https://matinkhamooshi.ir) + AI
 
 ---
 
+<div dir="rtl">
+
 # تغییر تعداد محصولات سبد خرید در صفحه تسویه حساب (ویژه قالب هاب)
 
 یک افزونه وردپرس برای اضافه کردن امکان تغییر تعداد محصولات در صفحه تسویه حساب ووکامرس برای قالب Hub.
+
+## پیش‌نمایش فارسی
+
+| تعداد یک عدد از محصول | تعداد 2 یا بیشتر از محصول |
+| --- | --- |
+| ![پیش‌نمایش یک عدد از محصول در سبد خرید](images/preview-fa.webp) | ![پیش‌نمایش بیش از یک محصول در سبد خرید](images/preview-2-fa.webp) |
 
 ## ویژگی‌ها
 
@@ -75,3 +83,5 @@ https://github.com/MatinKhamooshi/checkout-quantity-update-for-hub-theme/
 ## توسعه‌دهنده
 
 توسعه یافته توسط [Matin Khamooshi](https://matinkhamooshi.ir) + AI
+
+</div>
