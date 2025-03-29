@@ -2,6 +2,12 @@
 
 A WordPress plugin to enable quantity adjustment for products on the WooCommerce checkout page, specifically designed for the Hub theme.
 
+## Preview EN
+
+| One item in cart | Multiple items in cart |
+| --- | --- |
+| ![One item in cart preview](images/preview-en.webp) | ![Multiple items in cart](images/preview-2-en.webp) |
+
 ## Features
 
 - Add a quantity adjustment field next to the product name on the checkout page
